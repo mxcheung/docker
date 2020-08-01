@@ -14,3 +14,6 @@ https://dzone.com/articles/introduction-to-docker-secrets
            - pg_password
            - pg_user
            - pg_database
+
+
+https://gist.github.com/aramalipoor/f62355cd440584986bfd91bd69e52c49
