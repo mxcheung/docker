@@ -14,3 +14,6 @@ https://dzone.com/articles/introduction-to-docker-secrets
            - pg_password
            - pg_user
            - pg_database
+
+
+docker login -u="fed" -p="ZY+fgfgfgfffffffffffffffff+Xuach3RSBxWhgX1b0Ui8/TNkkvWs" quay-io
